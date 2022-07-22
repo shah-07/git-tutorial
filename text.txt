@@ -1,2 +1,2 @@
 Hello, I am using Notepad. because powershell is not recognized VIM.
-I am learning git and github.
+I am learning git and github from stack learner.
